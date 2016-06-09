@@ -1,6 +1,6 @@
 {
 	"protocol":"ws",
-	"port":8080,
+	"port":80,
 	"host": "23.23.110.223",
 	"debug":false
 }
