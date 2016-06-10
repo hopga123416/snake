@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name":         "snake-canvas",
 	"version":			"0.0.1",
   "dependencies": {
@@ -6,3 +7,34 @@
     "socket.io": "= 0.6.18"
   }
 }
+=======
+  "name": "JSlither",
+  "version": "1.0.0",
+  "description": "An open source nodejs server implementation for slither.io",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/circa94/JSlither.git"
+  },
+  "keywords": [
+    "slither"
+  ],
+  "author": "circa94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/circa94/JSlither/issues"
+  },
+  "homepage": "http://www.theHardCoders.de",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "ws": "^1.1.0"
+  }
+}
+>>>>>>> dd3e1e746c95f6f36649d692ba82f3093f569ea2
